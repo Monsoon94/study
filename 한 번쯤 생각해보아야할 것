@@ -1,7 +1,10 @@
 #한번 쯤 생각해봐야하는 것들#
 
 1. What difference interpolation method and regression?
+https://medium.com/@danaytaman/time-series-forecasting-vs-regression-cf89d0d0f3bd
 
 2. We can use 'regression model' for extrapolation?
+https://stats.stackexchange.com/questions/177085/using-regression-to-project-outside-of-the-data-range-ok-never-ok-sometimes-ok
+https://stats.stackexchange.com/questions/190503/decision-trees-and-regression-can-predicted-values-be-outside-range-of-trainin
 
 3. 
